@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thuctran97
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, Typescript
+- 👀 Jack of all trades, Master of some
 - 📫 How to reach me ...
 
 <!---
